@@ -1,0 +1,4 @@
+#Thu Jun 09 19:17:59 CEST 2022
+base.0=/Users/hienhoa/StudioProjects/train_identity/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
